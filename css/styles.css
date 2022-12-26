@@ -274,6 +274,7 @@ body {
 {
     
     border: 1px solid #2196F3;
+    outline: none;
     
 }
 
@@ -291,6 +292,7 @@ body {
 .label-input:focus
 {
     fill: var(--accent-color);
+    
     
 }
 
@@ -310,6 +312,7 @@ textarea {
     height: 120px;
     border: 1px solid rgba(33, 33, 33, 0.2);
     border-radius: 4px;
+    outline: none;
 
 }
 .input-checkbox{
@@ -824,6 +827,7 @@ button section*/
         letter-spacing: 0.03em;
         color: rgba(255, 255, 255, 0.6);
         background: #2F303A;
+        outline: none;
         
 
 }
